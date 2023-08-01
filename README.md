@@ -4,3 +4,5 @@ webcam face detection&cropping.py
 predictors.py
 feature_extraction.py
 features.pickle
+face recognition.py
+video recognition.py
